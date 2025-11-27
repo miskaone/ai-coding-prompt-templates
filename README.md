@@ -1,7 +1,7 @@
 # AI Coding Prompt Templates
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/ai-coding-prompt-templates?style=social)
+![GitHub stars](https://img.shields.io/github/stars/miskaone/ai-coding-prompt-templates?style=social)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 
 **Production-ready prompt templates for AI-assisted coding with built-in self-reflection**
@@ -249,7 +249,7 @@ Based on research from Wei et al., Shinn et al., and Anthropic's Constitutional 
 
 - **LinkedIn:** [mike-mackintosh](https://linkedin.com/in/mike-mackintosh)
 - **Website:** [flowevolve.com](https://flowevolve.com)
-- **Twitter/X:** [@yourusername](https://twitter.com/yourusername)
+- **Twitter/X:** [@mikelmack](https://twitter.com/mikelmack)
 
 ---
 
@@ -257,7 +257,7 @@ Based on research from Wei et al., Shinn et al., and Anthropic's Constitutional 
 
 If these templates help you write better code, give us a star! It helps others discover the project.
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/ai-coding-prompt-templates&type=Date)](https://star-history.com/#yourusername/ai-coding-prompt-templates&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=miskaone/ai-coding-prompt-templates&type=Date)](https://star-history.com/#miskaone/ai-coding-prompt-templates&Date)
 
 ---
 
