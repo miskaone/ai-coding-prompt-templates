@@ -733,7 +733,7 @@ the threat model and verification steps in the PR description."
 
 ## Feedback & Contributions
 
-**Found a pattern that works well?** Share it in the [LinkedIn discussion](YOUR_LINKEDIN_POST_LINK).
+**Found a pattern that works well?** Share it in the [LinkedIn discussion](https://www.linkedin.com/posts/michael-a-lydick_activity-7399829242022109184-8WdA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAIZ2_sB-GAvZdH-tFAqcrWtO9QeVGJz3kM).
 
 **Building enterprise prompt libraries?** Check out [AgentForge](https://flowevolve.com) for team-wide prompt governance and reusable reflective memory.
 
