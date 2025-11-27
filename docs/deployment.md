@@ -188,7 +188,7 @@ If this PR includes AI-generated code:
 - [ ] Documented self-reflection findings
 - [ ] Verified all checklist items from template
 
-Template used: [Template Name](link)
+Template used: [Template Name](https://github.com/miskaone/ai-coding-prompt-templates/tree/master/templates)
 
 Key reflection insights:
 - [What did reflection reveal?]
@@ -277,7 +277,7 @@ Add to new hire onboarding:
 ```markdown
 ## Week 1: Development Setup
 - [ ] Clone repos and install dependencies
-- [ ] Review [AI Prompt Templates](link)
+- [ ] Review [AI Prompt Templates](https://github.com/miskaone/ai-coding-prompt-templates)
 - [ ] Watch: 15-min video on template usage
 - [ ] Read: [Quick Start Guide](../docs/quick-start.md)
 
