@@ -1,0 +1,91 @@
+{
+  "Security Critical Prompt": {
+    "prefix": "ai-security",
+    "body": [
+      "I need to implement ${1:functionality}.",
+      "",
+      "Security context:",
+      "- Trust boundaries: ${2:who/what can access}",
+      "- Sensitive data involved: ${3:PII, credentials, etc}",
+      "- Compliance requirements: ${4:SOC2, HIPAA, GDPR, etc}",
+      "",
+      "Before generating code, perform this self-reflection:",
+      "",
+      "1. **Threat Model**: What are the attack vectors for this operation?",
+      "2. **Trust Boundaries**: What data crosses trust boundaries and how?",
+      "3. **Security Controls**: What validation, authentication, authorization is needed?",
+      "4. **Failure Modes**: What happens if validation fails, auth fails, or connection drops?",
+      "5. **Data Exposure**: What data should NEVER be in logs, errors, or responses?",
+      "",
+      "Then implement with appropriate security controls in place."
+    ],
+    "description": "Security template for Cursor AI"
+  },
+  "Performance Analysis Prompt": {
+    "prefix": "ai-performance",
+    "body": [
+      "I need to implement ${1:functionality}.",
+      "",
+      "Performance requirements:",
+      "- Target latency: ${2:P50/P95/P99 targets}",
+      "- Expected throughput: ${3:requests/second}",
+      "- Data volume: ${4:number of records}",
+      "- Concurrency: ${5:simultaneous operations}",
+      "",
+      "Before generating code, analyze:",
+      "",
+      "1. **Algorithmic Complexity**: What's the time/space complexity?",
+      "2. **Memory Characteristics**: What's the memory footprint?",
+      "3. **Bottlenecks**: What are the likely performance bottlenecks?",
+      "4. **Scalability**: How does this perform at 10x, 100x scale?",
+      "5. **Tradeoffs**: What am I optimizing for?",
+      "",
+      "Then implement with performance considerations addressed."
+    ],
+    "description": "Performance template for Cursor AI"
+  },
+  "Integration Pattern Prompt": {
+    "prefix": "ai-integration",
+    "body": [
+      "Current pattern in our codebase:",
+      "",
+      "${1:PASTE EXAMPLE CODE}",
+      "",
+      "New requirement: ${2:what you need to build}",
+      "",
+      "Before implementing, analyze the existing pattern:",
+      "",
+      "1. **Security Controls**: What auth, validation, audit logging exists?",
+      "2. **Error Handling**: What's the error handling strategy?",
+      "3. **Logging/Observability**: What gets logged?",
+      "4. **Data Handling**: PII requirements? Encryption?",
+      "5. **Testing Approach**: What's the testing pattern?",
+      "",
+      "Then implement maintaining consistency with these patterns."
+    ],
+    "description": "Integration template for Cursor AI"
+  },
+  "Team Standards Prompt": {
+    "prefix": "ai-standards",
+    "body": [
+      "Generate ${1:language} code adhering to these principles:",
+      "",
+      "**Security Principles:**",
+      "- Principle 1: ${2:security requirement}",
+      "- Principle 2: ${3:security requirement}",
+      "",
+      "**Quality Principles:**",
+      "- Principle 4: ${4:quality requirement}",
+      "- Principle 5: ${5:quality requirement}",
+      "",
+      "**Compliance Principles:**",
+      "- Principle 6: ${6:compliance requirement}",
+      "",
+      "After generating code, perform a constitutional review:",
+      "1. Does the code satisfy each principle?",
+      "2. Are there any principle violations?",
+      "3. What additional safeguards could strengthen compliance?"
+    ],
+    "description": "Constitutional AI template for Cursor AI"
+  }
+}
