@@ -1,0 +1,29 @@
+name: Greetings
+
+on: [pull_request_target, issues]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: |
+          👋 Thanks for opening your first issue! We're glad to have you contributing to AI Coding Prompt Templates.
+          
+          Please make sure you've provided enough detail for us to understand and reproduce the issue.
+          
+          A maintainer will review this soon!
+        pr-message: |
+          🎉 Thanks for opening your first PR! We appreciate your contribution to making AI-assisted coding more secure.
+          
+          Please make sure:
+          - [ ] Your PR follows our [contributing guidelines](../CONTRIBUTING.md)
+          - [ ] You've tested your changes
+          - [ ] Documentation is updated if needed
+          
+          A maintainer will review this soon!
