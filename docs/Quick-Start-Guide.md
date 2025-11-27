@@ -184,7 +184,7 @@ Additionally, consider:
 
 ## 🤝 Getting Help
 
-**Questions?** Connect on [LinkedIn](https://linkedin.com/in/mike-mackintosh) and share what you're building.
+**Questions?** Connect on [LinkedIn](https://linkedin.com/in/michael-a-lydick) and share what you're building.
 
 **Enterprise deployment?** [FlowEvolve](https://flowevolve.com) provides team-wide prompt governance and AgentForge for secure AI agent testing.
 

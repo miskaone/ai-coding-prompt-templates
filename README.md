@@ -132,7 +132,7 @@ The AI will:
 ### Articles
 
 - **[Thinking in Prompts](https://medium.com/@your-handle)** - Full framework and theory (Medium)
-- **[LinkedIn Series](https://linkedin.com/in/mike-mackintosh)** - 4-part deep dive
+- **[LinkedIn Series](https://linkedin.com/in/michael-a-lydick)** - 4-part deep dive
 
 ### Research Foundation
 
@@ -236,7 +236,7 @@ Free to use and adapt. Attribution appreciated but not required.
 
 ## 🙏 Acknowledgments
 
-Created by **[Mike Mackintosh](https://linkedin.com/in/mike-mackintosh)**
+Created by **Michael Lydick** ([LinkedIn](https://linkedin.com/in/michael-a-lydick))
 - Founder, [FlowEvolve](https://flowevolve.com)
 - Principal Architect specializing in AI Agent Security
 - 15+ years Microsoft platform expertise
@@ -247,7 +247,7 @@ Based on research from Wei et al., Shinn et al., and Anthropic's Constitutional 
 
 ## 🔗 Connect
 
-- **LinkedIn:** [mike-mackintosh](https://linkedin.com/in/mike-mackintosh)
+- **LinkedIn:** [Michael Lydick](https://linkedin.com/in/michael-a-lydick)
 - **Website:** [flowevolve.com](https://flowevolve.com)
 - **Twitter/X:** [@mikelmack](https://twitter.com/mikelmack)
 

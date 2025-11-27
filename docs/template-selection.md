@@ -349,7 +349,7 @@ When in doubt? → Template 1 (security first)
 ## Get Help Choosing
 
 **Still unsure?**
-- Post your scenario on [LinkedIn](https://linkedin.com/in/mike-mackintosh) with #ThinkingInPrompts
+- Post your scenario on [LinkedIn](https://linkedin.com/in/michael-a-lydick) with #ThinkingInPrompts
 - Check the full guide: `AI-Coding-Prompt-Templates.md`
 - Start with `Quick-Start-Guide.md` for hands-on tutorial
 

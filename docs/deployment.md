@@ -488,7 +488,7 @@ See [domains/](../domains/) for examples:
 **Questions about deployment?**
 - Open an issue: [GitHub Issues](https://github.com/yourusername/ai-coding-prompt-templates/issues)
 - Discuss with community: [GitHub Discussions](https://github.com/yourusername/ai-coding-prompt-templates/discussions)
-- Connect: [LinkedIn](https://linkedin.com/in/mike-mackintosh)
+- Connect: [LinkedIn](https://linkedin.com/in/michael-a-lydick)
 
 **Enterprise support:**
 - Custom deployment planning

@@ -3,7 +3,7 @@
 **Self-Reflection Framework for Production-Grade Code**
 
 Based on "Thinking in Prompts: The Self-Reflection Framework for Production-Grade AI Code"  
-By Mike Mackintosh | [FlowEvolve](https://flowevolve.com) | [LinkedIn](https://linkedin.com/in/mike-mackintosh)
+By Michael Lydick | [FlowEvolve](https://flowevolve.com) | [LinkedIn](https://linkedin.com/in/michael-a-lydick)
 
 ---
 
@@ -716,7 +716,7 @@ the threat model and verification steps in the PR description."
 
 ### Connect
 
-- **[LinkedIn](https://linkedin.com/in/mike-mackintosh)** - Join the conversation, share your experiences
+- **[LinkedIn](https://linkedin.com/in/michael-a-lydick)** - Join the conversation, share your experiences
 - **Coming Soon:** "Thinking in Agents" series on multi-agent orchestration patterns
 
 ---
