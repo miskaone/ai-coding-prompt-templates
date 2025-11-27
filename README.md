@@ -249,7 +249,7 @@ Based on research from Wei et al., Shinn et al., and Anthropic's Constitutional 
 
 - **LinkedIn:** [Michael Lydick](https://linkedin.com/in/michael-a-lydick)
 - **Website:** [flowevolve.com](https://flowevolve.com)
-- **Twitter/X:** [@mikelmack](https://twitter.com/mikelmack)
+- **Twitter/X:** [@Mike_Lydick](https://twitter.com/Mike_Lydick)
 
 ---
 
