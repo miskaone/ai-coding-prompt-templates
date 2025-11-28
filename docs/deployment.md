@@ -486,8 +486,8 @@ See [domains/](../domains/) for examples:
 ## 📞 Get Help
 
 **Questions about deployment?**
-- Open an issue: [GitHub Issues](https://github.com/yourusername/ai-coding-prompt-templates/issues)
-- Discuss with community: [GitHub Discussions](https://github.com/yourusername/ai-coding-prompt-templates/discussions)
+- Open an issue: [GitHub Issues](https://github.com/miskaone/ai-coding-prompt-templates/issues)
+- Discuss with community: [GitHub Discussions](https://github.com/miskaone/ai-coding-prompt-templates/discussions)
 - Connect: [LinkedIn](https://linkedin.com/in/michael-a-lydick)
 
 **Enterprise support:**
